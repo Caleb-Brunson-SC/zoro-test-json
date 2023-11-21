@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "orderNumber": "R000000",
+    "orderUUID": "9c565f5e-7116-11ee-b962-0242ac120002",
+    "customerUUID": "30ba427a-711a-11ee-b962-0242ac120002",
+    "creationDate": "2023-03-12",
+    "cutDate": "2023-03-13",
+    "deliveryDate": "2023-03-14",
+    "orderContents": "3x 419; 10x cavalier; 2x centipede",
+    "truckDriver": "Ryan",
+    "customerAddress": "optional",
+    "forklift": true,
+    "comments": "optional",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "orderNumber": "R000001",
+    "orderUUID": "a22dbd64-7116-11ee-b962-0242ac120002",
+    "customerUUID": "33f37bc8-711a-11ee-b962-0242ac120002",
+    "creationDate": "2023-03-16",
+    "cutDate": "2023-03-17",
+    "deliveryDate": "2023-03-18",
+    "orderContents": "3x 419; 10x cavalier; 2x centipede",
+    "truckDriver": "Jimmy",
+    "customerAddress": "optional",
+    "forklift": false,
+    "comments": "optional",
+    "completed": true
+  },
+  {
+    "id": "3",
+    "orderNumber": "R000002",
+    "orderUUID": "a88a166c-7116-11ee-b962-0242ac120002",
+    "customerUUID": "49d0697e-711a-11ee-b962-0242ac120002",
+    "creationDate": "2023-03-18",
+    "cutDate": "2023-03-19",
+    "deliveryDate": "2023-03-20",
+    "orderContents": "3x 419; 10x cavalier; 2x centipede",
+    "truckDriver": "Carl",
+    "customerAddress": "optional",
+    "forklift": true,
+    "comments": "optional",
+    "completed": false
+  }
+]
