@@ -25,9 +25,9 @@
     "orderContents": "3x 419; 10x cavalier; 2x centipede",
     "truckDriver": "Jimmy",
     "customerAddress": "optional",
-    "forklift": false,
+    "forklift": "true",
     "comments": "optional",
-    "completed": true
+    "completed": "false"
   },
   {
     "id": "3",
@@ -40,8 +40,8 @@
     "orderContents": "3x 419; 10x cavalier; 2x centipede",
     "truckDriver": "Carl",
     "customerAddress": "optional",
-    "forklift": true,
+    "forklift": "true",
     "comments": "optional",
-    "completed": false
+    "completed": "false"
   }
 ]
