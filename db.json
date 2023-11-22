@@ -10,9 +10,9 @@
     "orderContents": "3x 419; 10x cavalier; 2x centipede",
     "truckDriver": "Ryan",
     "customerAddress": "optional",
-    "forklift": true,
+    "forklift": "true",
     "comments": "optional",
-    "completed": false
+    "completed": "false"
   },
   {
     "id": "2",
